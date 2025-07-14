@@ -3,7 +3,7 @@
 <img width="1896" height="859" alt="Screenshot 2025-07-13 145021" src="https://github.com/user-attachments/assets/1c1d76a4-685d-49ca-9bd5-e81b46351345" />
 
 
-Live Demo: [https://dreamy-kulfi-21bae0.netlify.app](https://dreamy-kulfi-21bae0.netlify.app)
+Live Demo: [https://bejewelled-kulfi-d5a20f.netlify.app/](https://dreamy-kulfi-21bae0.netlify.app)
 
 ## 📌 Overview
 Nitu Cuisine is a fully responsive restaurant website that enables users to contact the restaurant, book tables, and join a subscription list. Built using HTML, CSS, and JavaScript with real-time email functionality powered by EmailJS.
